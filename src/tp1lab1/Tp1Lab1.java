@@ -14,7 +14,8 @@ public class Tp1Lab1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        // Se crearon tres clases para el trabajo practico numero 1
     }
     
 }
